@@ -34,6 +34,7 @@ To implement and evaluate a Decision Tree model to classify tumors as benign or 
 ## Program:
 ```py
 
+
 # Import the necessary libraries
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -82,10 +83,13 @@ plt.ylabel("Actual")
 plt.title("Confusion Matrix")
 plt.show()
 
+
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/66edc4d1-17a9-4065-b101-1826620d3c30)
+![image](https://github.com/user-attachments/assets/314e73e7-157d-46d8-ac89-21923fac32ed)
+
+![image](https://github.com/user-attachments/assets/4344e450-2b12-403d-b3e8-0aab3f62a49a)
 
 
 
